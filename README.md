@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, I'm Henrique 👋🏻  
 
-<!--
-**OmegaStigma/OmegaStigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 24 year-old developer based in Ireland, and I'm passionate about creating new digital experiences for everyone. 
 
-Here are some ideas to get you started:
+- Check out my [website](https://www.honoikazuchi.com/) to learn more about me.
+ 
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `Next.js` `TypeScript`
+ 
+**Version Control:** `Git` `GitLab`
+
+**Others:** `Scrum` `DevOps`
+ 
+## ✨ Fun Facts 
+
+- Demon Slayer is my favorite anime.
+- My favourite hobby is going to the gym.
+- I changed countries in a month because I wanted a new beginning.
