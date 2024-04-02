@@ -10,7 +10,7 @@ I'm a 24 year-old developer based in Ireland, and I'm passionate about creating 
  
 **Version Control:** `Git` `GitLab`
 
-**Others:** `Scrum` `DevOps`
+**Others:** `Scrum` `DevOps` `Python`
  
 ## ✨ Fun Facts 
 
