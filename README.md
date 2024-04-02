@@ -14,6 +14,6 @@ I'm a 24 year-old developer based in Ireland, and I'm passionate about creating 
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
+- Naruto is my favorite anime.
 - My favourite hobby is going to the gym.
 - I changed countries in a month because I wanted a new beginning.
